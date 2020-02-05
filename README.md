@@ -1,5 +1,4 @@
-# MailerLite
-MailerLite Assignmnet
+# MailerLite Assignment
 
 This is a landing page that entices visitors to sign up for email from MailerLite. 
 
