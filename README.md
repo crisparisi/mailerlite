@@ -17,4 +17,4 @@ Some thoughts behind the layout:
 - The remaining sections outline some product features and then focus on what makes MailerLite stand out in the market, such as fair pricing, a great team of people behind the product, testimonials and reliable support
 - The page also offers a couple quick options to gain some valuable information and answer two common questions htat may be on the minds of prospective users.
 
-Overall, the focus is still on the product and what it offers in a space where competitors offer overly complex platforms that move further away from the focus on the customer. It's important to offer both current customers and prospects a broad look at the product while also encouraging the action the sign up to gain valuable insight by receiving the newsletters.
+Overall, the focus is still on the product and what it offers in a space where competitors offer overly complex platforms that move further away from the focus on the customer. It's important to offer both current customers and prospects a broad look at the product while also encouraging the action to sign up to gain valuable insight by receiving the newsletters.
