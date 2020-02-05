@@ -13,7 +13,7 @@ Some thoughts behind the layout:
 - The overall MailerLite branding was retained for continuity and familiarity for returning/current users
 - The top portion gives a brief explantion of the purpose of the page and immediately presents the option to jump straight into signing up
 - The main header image showcases some of the items you may expect to see in an email newsletter
-- The incentive setion offers a more fun, interactive visual that should help convince curious users to take the next step in signing up
+- The incentive section offers a more fun, interactive visual that should help convince curious users to take the next step in signing up
 - The remaining sections outline product features and shifts focus to what makes MailerLite stand out in the market, such as fair pricing, a great team of people behind the product and reliable support
 - The page also offers a couple quick options to gain some valuable information and addresses two common questions that may be important to prospective users
 
