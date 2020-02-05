@@ -15,6 +15,6 @@ Some thoughts behind the layout:
 - The main header image showcases some of the items you may expect to see in an email newsletter
 - The incentive section offers a more fun, interactive visual that should help convince curious users to take the next step in signing up
 - The remaining sections outline product features and shifts focus to what makes MailerLite stand out in the market, such as fair pricing, a great team of people behind the product and reliable support
-- The page also offers a couple quick options to gain some valuable information and addresses two common questions that may be important to prospective users
+- The page also offers quick options to gain valuable information (via testimonials) and addresses two common questions that may be important to prospective users
 
 The focus of the page is on the product and what it offers email marketers and small business owners. It is important to offer both current customers and prospects a broad look at the product while also encouraging the action to sign up to gain valuable insight by receiving the newsletters.
