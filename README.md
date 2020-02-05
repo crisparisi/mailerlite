@@ -6,7 +6,7 @@ MailerLite publishes weekly newsletters as their main marketing channel. They se
 
 Newsletter topics that are covered include: MailerLite features and updates, email marketing, business, remote, team, etc.
 
-This page showcases the benefits of signing up for these email newsletters and also offers a small incentive (free sticker). Some of the product features are also highlighted offering information about the various capabilites of MailerLite.
+This page showcases the benefits of signing up for these email newsletters while also offering a small incentive (free sticker). Some of the product features are also highlighted offering information about the various capabilites of MailerLite.
 
 Some thoughts behind the layout:
 
