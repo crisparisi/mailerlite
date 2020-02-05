@@ -1,6 +1,6 @@
 # MailerLite Assignment
 
-This is a landing page that entices visitors to sign up for email from MailerLite. 
+This project showcases a landing page that entices visitors to sign up for email from MailerLite. 
 
 MailerLite publishes weekly newsletters as their main marketing channel. They send it to more than 200,000 subscribers and the number is growing each week. Some of their subscribers are already paying customers, others are on free plan or are just interested in MailerLite.
 
