@@ -364,10 +364,10 @@
         $(document).herbyCookie({
             btnText: "Accept",
             policyText: "Privacy policy",
-            text: "We use cookies to ensure you get the best experience on our website, if you continue to browse you'll be acconsent with our",
+            text: "We use cookies to ensure you get the best experience on our website. If you continue to browse you'll consent to our",
             scroll: false,
             expireDays: 30,
-            link: "#"
+            link: "https://www.mailerlite.com/legal/privacy-policy"
         });
       });
     }
