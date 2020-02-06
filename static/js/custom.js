@@ -346,9 +346,9 @@
         }
     }
     /*--------------------
-        * particles
+        * Particles
     ----------------------*/
-    THE.particles = function() {
+    THE.Particles = function() {
       if ($("#particles-box").exists()){
         loadScript(plugin_track + 'particles/particles.min.js', function() {
         });
@@ -357,9 +357,9 @@
       }
     }
     /*-----------------------
-    * Cookis
+    * Cookies
     -------------------------*/
-    THE.Cookis = function () {
+    THE.Cookies = function () {
       loadScript(plugin_track + 'cookie/herbyCookie.js', function() {
         $(document).herbyCookie({
             btnText: "Accept",
@@ -414,8 +414,8 @@
 		THE.HeaderHeight(),
 		THE.MegaMenu(),
 		THE.ProgressBar(),
-    THE.particles(),
-    THE.Cookis(),
+    THE.Particles(),
+    THE.Cookies(),
     THE.typedbox(),
 		THE.Owl();
 	});
