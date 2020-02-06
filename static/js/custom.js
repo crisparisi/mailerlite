@@ -363,7 +363,7 @@
       loadScript(plugin_track + 'cookie/herbyCookie.js', function() {
         $(document).herbyCookie({
             btnText: "Accept",
-            policyText: "Privacy policy",
+            policyText: "privacy policy",
             text: "We use cookies to ensure you get the best experience on our website. If you continue to browse you'll consent to our",
             scroll: false,
             expireDays: 30,
