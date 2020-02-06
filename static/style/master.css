@@ -119,6 +119,12 @@ h6 {
   font-size: .675rem;
   line-height: 1.25rem; }
 
+  .font-small-lh {
+  font-size: .675rem;
+  line-height: 1rem;
+  font-style: italic;
+  display:block; }
+
 .font-1 {
   font-size: 1rem; }
 
